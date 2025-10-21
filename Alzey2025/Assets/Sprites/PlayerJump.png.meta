@@ -1,10 +1,22 @@
 fileFormatVersion: 2
-guid: defe4b6fcd8eb084aa534cb10e68dc1c
+guid: a5efd44f214bd1c469268b941403737e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6783273551066714647
-    second: PlayerIdol_0
+      213: 444702640956841479
+    second: PlayerJump_0
+  - first:
+      213: -7941400250425145444
+    second: PlayerJump_1
+  - first:
+      213: 496497603323687001
+    second: PlayerJump_2
+  - first:
+      213: 8691810124558177054
+    second: PlayerJump_3
+  - first:
+      213: -2098300212452292270
+    second: PlayerJump_4
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,7 +112,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: PlayerIdol_0
+      name: PlayerJump_0
       rect:
         serializedVersion: 2
         x: 0
@@ -115,14 +127,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9edad5605a8fcd1a0800000000000000
-      internalID: -6783273551066714647
+      spriteID: 70e19e022b6eb2600800000000000000
+      internalID: 444702640956841479
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PlayerIdol_1
+      name: PlayerJump_1
       rect:
         serializedVersion: 2
         x: 16
@@ -135,16 +147,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: e2533d4492f960e42a1a9797f85b9aa1
-      internalID: -1962150382
+      spriteID: c97063e2c8a7ac190800000000000000
+      internalID: -7941400250425145444
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PlayerIdol_2
+      name: PlayerJump_2
       rect:
         serializedVersion: 2
         x: 32
@@ -157,16 +169,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: ee0cc2202ded3914b9db5a9004048b81
-      internalID: 30314339
+      spriteID: 950f0fd80f9e3e600800000000000000
+      internalID: 496497603323687001
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PlayerIdol_3
+      name: PlayerJump_3
       rect:
         serializedVersion: 2
         x: 48
@@ -179,16 +191,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 522e9505bb98e864096cbc04a5f550b8
-      internalID: 447233216
+      spriteID: e131f61d1438f9870800000000000000
+      internalID: 8691810124558177054
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PlayerIdol_4
+      name: PlayerJump_4
       rect:
         serializedVersion: 2
         x: 64
@@ -201,32 +213,10 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 46fad2193b4edb247b4c81936b98e10c
-      internalID: 1989626986
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PlayerIdol_5
-      rect:
-        serializedVersion: 2
-        x: 80
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 368b94557de829342930b60663461cd0
-      internalID: 1048519084
+      spriteID: 25987a4f21751e2e0800000000000000
+      internalID: -2098300212452292270
       vertices: []
       indices: 
       edges: []
@@ -235,7 +225,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 87263d5273b056243bafdcbcf94ef7f1
+    spriteID: 105f4f14da1226847bc2bf36c73654d2
     internalID: 0
     vertices: []
     indices: 
@@ -245,12 +235,11 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      PlayerIdol_0: -6783273551066714647
-      PlayerIdol_1: -1962150382
-      PlayerIdol_2: 30314339
-      PlayerIdol_3: 447233216
-      PlayerIdol_4: 1989626986
-      PlayerIdol_5: 1048519084
+      PlayerJump_0: 444702640956841479
+      PlayerJump_1: -7941400250425145444
+      PlayerJump_2: 496497603323687001
+      PlayerJump_3: 8691810124558177054
+      PlayerJump_4: -2098300212452292270
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
